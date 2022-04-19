@@ -19,7 +19,7 @@ public class Nivel {
 			if (valor >= 10) {
 				nivel++;
 			}
-			System.out.println("Você está no nível: " + nivel);
+			System.out.println("Você está no nível: " + nivel );
 		}
 	}
 
