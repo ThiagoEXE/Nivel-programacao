@@ -14,7 +14,7 @@ public class Nivel {
             this.exp =exp;
 			System.out.println("Digite a quantidade de horas estudadas:");
 			Scanner sc =new Scanner(System.in);
-			int valor = sc.nextInt();;
+			int valor = sc.nextInt();
 			
 			if (valor >= 10) {
 				nivel++;
